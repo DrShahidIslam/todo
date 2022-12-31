@@ -1,3 +1,3 @@
 A simple todo list CLI program.
 
-Run 'drtodo' to execute.
+Run 'npx drtodo' to execute.
